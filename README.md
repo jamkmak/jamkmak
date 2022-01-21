@@ -2,12 +2,10 @@
 
 - 🔭 I’m currently working: as a Project Manager at [The Broad Institute](https://www.broadinstitute.org/), supporting [depmap.org](https://depmap.org/portal/).
 - 🌱 I’m currently learning: WordPress, HTML, CSS, JavaScript, UX design, UX writing, SEO, and web design and development.
-- 🤔 I’m looking for help with: WordPress! I'm building a personal portfolio and travel blog, and there are simply too many creative possibilities. 
+- 🤔 I’m looking for help with: WordPress! I'm building a personal portfolio and travel blog. 
 - 💬 Ask me about: Cooking, travel, tea, and music.
 - 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/jakmak/)!
 - 😄 Pronouns: He/They/Any [(Why this question matters)](https://www.mypronouns.org/).
-- ⚡ Fun fact: ...
-
 
 
 <!--

@@ -29,4 +29,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/they/any
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats#top-languages-card
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+https://github.com/charlielevine
+https://gist.github.com/rxaviers/7360908
+
+
 -->

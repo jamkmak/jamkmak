@@ -2,7 +2,6 @@
 
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamkmak&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamkmak)](https://github.com/jamkmak/github-readme-stats)
 
 ### About Me
 

@@ -1,22 +1,19 @@
-### Hi there, I'm Jamie 👋
-
-- 🔭 I’m currently working: as a Project Manager at [The Broad Institute](https://www.broadinstitute.org/), supporting [depmap.org](https://depmap.org/portal/).
-- 🌱 I’m currently learning: WordPress, HTML, CSS, JavaScript, UX design, UX writing, SEO, and web design and development.
-- 🤔 I’m looking for help with: WordPress! I'm building a personal portfolio and travel blog. 
-- 💬 Ask me about: Cooking, travel, tea, and music.
-- 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/jakmak/)!
-- 😄 Pronouns: He/They/Any [(Why this question matters)](https://www.mypronouns.org/).
-
-
-
-[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamkmak)](https://github.com/anuraghazra/github-readme-stats)
+## Hi there, I'm Jamie 👋
 
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamkmak&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamkmak)](https://github.com/jamkmak/github-readme-stats)
 
+### About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamkmak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔨 Project Manager at [The Broad Institute](https://www.broadinstitute.org/), supporting [depmap.org](https://depmap.org/portal/).
+- 🌱 Learning WordPress, HTML, CSS, JavaScript, UX design, UX writing, SEO, and web design and development.
+- 🎓 UIUC Alumni | B.S. Integrative Biology, Statistics
+- 🎼 Trombonist, Bassist, Drummer
+- 🤔 I’m looking for help with: WordPress! I'm building a personal portfolio and travel blog. 
+- 💬 Ask me about: Cooking, travel, tea, and music.
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/jakmak/)!
+- 😄 Pronouns: He/They/Any [(Why this question matters)](https://www.mypronouns.org/).
 
 
 

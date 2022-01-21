@@ -8,6 +8,13 @@
 - 😄 Pronouns: He/They/Any [(Why this question matters)](https://www.mypronouns.org/).
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamkmak&layout=compact)](https://github.com/jamkmak/github-readme-stats)
+
+
+
+
+
 <!--
 **jamkmak/jamkmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

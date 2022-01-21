@@ -9,9 +9,8 @@
 - 🌱 Learning WordPress, HTML, CSS, JavaScript, UX design, UX writing, SEO, and web design and development.
 - 🎓 UIUC Alumni | B.S. Integrative Biology, Statistics
 - 🎼 Trombonist, Bassist, Drummer
-- 🤔 I’m looking for help with: WordPress! I'm building a personal portfolio and travel blog. 
-- 💬 Ask me about: Cooking, travel, tea, and music.
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/jakmak/)!
+- 💬 Let's chat about cooking, travel, tea, and music.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakmak/)!
 - 😄 Pronouns: He/They/Any [(Why this question matters)](https://www.mypronouns.org/).
 
 

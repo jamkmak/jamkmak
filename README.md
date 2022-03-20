@@ -6,7 +6,7 @@
 ### About Me
 
 - 🔨 Project Manager at [The Broad Institute](https://www.broadinstitute.org/), supporting [depmap.org](https://depmap.org/portal/).
-- 🌱 Learning WordPress, HTML, CSS, JavaScript, UX design, UX writing, SEO, and web design and development.
+- 🌱 Learning WordPress, HTML, CSS, JavaScript, UX design, UX writing, technical writing, SEO, and web design and development.
 - 🎓 UIUC Alumni | B.S. Integrative Biology, Statistics
 - 🎼 Trombonist, Bassist, Drummer
 - 💬 Let's chat about cooking, travel, tea, and music.

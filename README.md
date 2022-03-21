@@ -9,7 +9,7 @@
 - 🌱 Learning WordPress, HTML, CSS, JavaScript, UX design, UX writing, technical writing, SEO, and web design and development.
 - 🎓 UIUC Alumni | B.S. Integrative Biology, Statistics
 - 🎼 Trombonist, Bassist, Drummer
-- 💬 Let's chat about cooking, travel, tea, and music.
+- 💬 Let's chat about cooking, travel, tea, and music!
 - ✒️ Here are some [writing samples.](https://gist.github.com/jamkmak/8bcaede7b82705b44b7c253832ae618a)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakmak/)!
 - 😄 Pronouns: He/They/Any [(Why this question matters)](https://www.mypronouns.org/).

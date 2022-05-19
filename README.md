@@ -1,8 +1,5 @@
 ## Hi there, I'm Jamie 👋
 
-![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamkmak&show_icons=true&theme=tokyonight)
-
-
 ### About Me
 
 - 🔨 Project Manager at [The Broad Institute](https://www.broadinstitute.org/), supporting [depmap.org](https://depmap.org/portal/).

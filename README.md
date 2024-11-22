@@ -9,7 +9,7 @@
 - ✒️ Here's my [mini portfolio.](https://gist.github.com/jamkmak/8bcaede7b82705b44b7c253832ae618a)
 - 🎥 ...and my [YouTube channel.](https://www.youtube.com/@adventurousaudio/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakmak/)!
-- 🌈 Pronouns: They/He/Any [(Why this question matters)](https://www.mypronouns.org/).
+- 🌈 Pronouns: He/They [(Why this question matters)](https://www.mypronouns.org/).
 
 
 
